@@ -699,6 +699,9 @@ table tr:nth-child(even) {
         position: absolute;
         color: #0A2342;
     }
+    #footerLink{
+        color:white;
+    }
 
     #brand:hover {
         color: #0A2342;
@@ -1019,8 +1022,9 @@ table tr:nth-child(even) {
     }
 
     .footer {
-        background-color: #ffffff;
+        background-color: #0A2342;
         bottom: 0;
+        color:white;
         position: fixed;
         padding: 10px;
     }
@@ -1059,7 +1063,7 @@ table tr:nth-child(even) {
         position: absolute;
         top: 0%;
         left: 0%;
-        height: 100%;
+        height: 105%;
         width: 100%;
         overflow: hidden;
     }
@@ -1199,7 +1203,8 @@ table tr:nth-child(even) {
 
     footer {
         padding: 50px 0;
-        background-color: #f8f8f8;
+        background-color: #0A2342;
+        color:white;
     }
 
     p.copyright {
